@@ -1,0 +1,24 @@
+.img-responsive
+{
+    width: 60%;
+    height: 60%;
+}
+
+
+body{
+    background-color: gray;
+}
+
+b{
+    color: white;
+}
+
+#google
+{
+    color: green;
+}
+
+#MobileNet
+{
+    color: blue;
+}
